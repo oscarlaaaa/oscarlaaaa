@@ -8,13 +8,13 @@
 * My hobbies are board games, leetcode, badminton, and being a cool guy 😎
 
 ### What I'm currently learning 📖
-* Ruby/RubyOnRails 💎
+* Python 3 🐍
 * Object-Oriented Design 🏗️
+
+### What I will learn later 📖
+* Ruby/RubyOnRails 💎
 * MVC Architecture and Design 🏛️
 * Typescript ⌨️
-
-### What I want to learn
-* Python 3 🐍
 
 <!--
 **oscarlaaaa/oscarlaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
