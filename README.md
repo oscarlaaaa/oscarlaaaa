@@ -10,6 +10,8 @@
 ### What I'm currently learning 📖
 * Python 3 🐍
 * Object-Oriented Design 🏗️
+* Web-Scraping and Data Cleaning 🖥
+* Linear Regression and Data Analysis
 
 ### What I will learn later 📖
 * Ruby/RubyOnRails 💎
