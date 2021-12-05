@@ -7,6 +7,11 @@
 * I started programming Jan 2021 👶
 * My hobbies are board games, leetcode, badminton, and being a cool guy 😎
 
+### What I'm currently working on
+* BWF Web-scraped API
+* School :')
+* Not letting my studies consume my life
+
 ### What I'm currently learning 📖
 * Python 3 🐍
 * Object-Oriented Design 🏗️
