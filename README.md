@@ -24,7 +24,7 @@
 * Typescript ⌨️
 
 ### My Practice
-[![Leetcode Stats](https://leetcode.card.workers.dev/?username=oscarla5747&style=auto)](https://leetcode.com/oscarla5747)
+[![Leetcode Stats](https://leetcode.card.workers.dev/?username=oscarla5747&style=auto&extension=activity)](https://leetcode.com/oscarla5747)
 
 <!--
 **oscarlaaaa/oscarlaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
