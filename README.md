@@ -9,18 +9,13 @@
 
 ### What I'm currently working on
 * BWF Web-scraped API
-* School :')
-* Not letting my studies consume my life
+* Work 😎
+* My internship 👷
 
 ### What I'm currently learning 📖
 * Python 3 🐍
 * Object-Oriented Design 🏗️
-* Web-Scraping and Data Cleaning 🖥
 * Linear Regression and Data Analysis
-
-### What I will learn later 📖
-* Ruby/RubyOnRails 💎
-* MVC Architecture and Design 🏛️
 * Typescript ⌨️
 
 ### My Practice
