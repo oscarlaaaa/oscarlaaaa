@@ -1,34 +1,28 @@
-## Welcome friends to ✨My beautiful GitHub profile✨
-
-Hi, and welcome to my GitHub profile! My name is Oscar, a software developer currently working as an intern at Speedline Solutions. I am passionate about analytics, RESTful APIs, and full-stack development, but always love delving into new problem domains. 
+Hi, and welcome to my GitHub profile! My name is Oscar, a software developer currently working as an intern at Speedline Solutions. I am passionate about data analytics, RESTful APIs, and full-stack development, but always love delving into new problem domains. 
 
 Feel free to contact me @ my socials below for a quick chat, advice, or simply to say hi!
 
-### A little about me 😎
+#### A little about me
 * I'm a dual-citizen (Canadian and American)
 * I'm currently studying Computer Systems Technology at the British Columbia Institute of Technology
 * I have a Bachelor's in Applied Animal Biology from the University of British Columbia
-* I started programming Jan 2021
+* I started learning software development in January 2021
 * My hobbies are board games, leetcode, badminton, and being a cool guy 😎
 
-### What I'm currently working on 👷‍♀️
+#### What I'm currently working on
 * Badminton Analytics Dashboard
 * My internship at Speedline Solutions 🍕
 
-### What I'm currently learning 📖
-* Typescript + React/Redux
-* AWS
-* Linear Regression and Data Analysis
+#### Check out some of my projects 📖
+* [Badminton Singles API](https://badminton-api.com) A webscraper + API that scrapes TournamentSoftware for singles matches, and stores it to be easily queried through URL parameters.
+* [ScoutNinja!](https://scoutninja.herokuapp.com) A scavenger game inspired by Geoguesser where players can create scavenger games on google maps, and send them to friends to play.
 
-### My socials are @:
+#### Feel free to reach out to me @:
 * [Personal Website](https://oscar-la.com)
 * [LinkedIn](https://linkedin.com/in/oscar-la-bc/)
 * [Email](mailto:oscarla5747@gmail.com)
 * [Devpost](https://devpost.com/oscarla5747)
 * [Github?? You're already on it](https://github.com/oscarlaaaa)
-
-### My Practice
-[![Leetcode Stats](https://leetcode.card.workers.dev/?username=oscarla5747&style=auto&extension=activity)](https://leetcode.com/oscarla5747)
 
 <!--
 **oscarlaaaa/oscarlaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
