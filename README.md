@@ -1,4 +1,4 @@
-Hi, and welcome to my GitHub profile! My name is Oscar, a software developer currently working as an intern at Speedline Solutions. I am passionate about data analytics, RESTful APIs, and full-stack development, but always love delving into new problem domains. 
+Hi, and welcome to my GitHub profile! My name is Oscar, a software developer currently working as a software developer intern at Speedline Solutions. I am passionate about data analytics, RESTful APIs, and full-stack development, but always love delving into new problem domains. 
 
 #### A little about me
 * I'm a dual-citizen (Canadian and American)
