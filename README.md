@@ -12,8 +12,8 @@ Hi, and welcome to my GitHub profile! My name is Oscar, a software developer cur
 * My internship at Speedline Solutions 🍕
 
 #### Check out some of my projects 📖
-* [Badminton Singles API](https://badminton-api.com) A webscraper + API that scrapes TournamentSoftware for singles matches, and stores it to be easily queried through URL parameters.
-* [ScoutNinja!](https://scoutninja.herokuapp.com) A scavenger game inspired by Geoguesser where players can create scavenger games on google maps, and send them to friends to play.
+* [Badminton Singles API](https://badminton-api.com): A webscraper + API that scrapes TournamentSoftware for singles matches, and stores it to be easily queried through URL parameters.
+* [ScoutNinja!](https://scoutninja.herokuapp.com): A scavenger game inspired by Geoguesser where players can create scavenger games on google maps, and send them to friends to play.
 
 #### Feel free to reach out to me @:
 * [Personal Website](https://oscar-la.com)
