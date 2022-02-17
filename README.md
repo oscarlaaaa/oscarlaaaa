@@ -8,6 +8,7 @@ Hi, and welcome to my GitHub profile! My name is Oscar, a software developer cur
 * My hobbies are board games, leetcode, badminton, and being a cool guy 😎
 
 #### What I'm currently working on
+* Learning Golang
 * Badminton Analytics Dashboard
 * My internship at Speedline Solutions 🍕
 
