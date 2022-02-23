@@ -9,6 +9,7 @@ Hi, and welcome to my GitHub profile! My name is Oscar, a software developer cur
 
 #### What I'm currently working on
 * Learning Golang
+* Badminton Analytics Dashboard
 * Insider Websocket Game
 * My internship at Speedline Solutions 🍕
 
