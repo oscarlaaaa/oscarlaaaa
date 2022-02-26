@@ -8,13 +8,14 @@ Hi, and welcome to my GitHub profile! My name is Oscar, a software developer cur
 * My hobbies are board games, leetcode, badminton, and being a cool guy 😎
 
 #### What I'm currently working on
-* Learning Golang
-* Badminton Analytics Dashboard
-* Insider Websocket Game
 * My internship at Speedline Solutions 🍕
+* Badminton Analytics Dashboard
+* Learning Golang
+* Insider Websocket Game
 
 #### Check out some of my projects 📖
-* [Badminton Singles API](https://badminton-api.com): A webscraper + API that scrapes TournamentSoftware for singles matches, and stores it to be easily queried through URL parameters.
+* [Badminton Analytics Dashboard](http://analytics.badminton-api.com): A dashboard that queries the Badminton Singles API to pull up player match history, player head-to-head records, and analyze % chance of victory against another player.
+* [Badminton Singles API](https://api.badminton-api.com): A webscraper + API that scrapes TournamentSoftware for singles matches, and stores it to be easily queried through URL parameters.
 * [ScoutNinja!](https://scoutninja.herokuapp.com): A scavenger game inspired by Geoguesser where players can create scavenger games on google maps, and send them to friends to play.
 
 #### Feel free to reach out to me @:
