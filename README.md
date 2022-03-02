@@ -2,10 +2,9 @@ Hi, and welcome to my GitHub profile! My name is Oscar, a software developer cur
 
 #### A little about me
 * I'm a dual-citizen (Canadian and American)
-* I'm currently studying Computer Systems Technology at the British Columbia Institute of Technology
 * I have a Bachelor's in Applied Animal Biology from the University of British Columbia
 * I started learning software development in January 2021
-* My hobbies are board games, leetcode, badminton, and being a cool guy 😎
+* My hobbies are board games, badminton, and being a cool guy 😎
 
 #### What I'm currently working on
 * My internship at Speedline Solutions 🍕
@@ -24,18 +23,3 @@ Hi, and welcome to my GitHub profile! My name is Oscar, a software developer cur
 * [Email](mailto:oscarla5747@gmail.com)
 * [Devpost](https://devpost.com/oscarla5747)
 * [Github?? You're already on it](https://github.com/oscarlaaaa)
-
-<!--
-**oscarlaaaa/oscarlaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
