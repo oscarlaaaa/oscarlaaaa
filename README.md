@@ -9,8 +9,7 @@ Hi, and welcome to my GitHub profile! My name is Oscar, a software developer cur
 #### What I'm currently working on
 * My internship at Speedline Solutions 🍕
 * Badminton Analytics Dashboard
-* Learning Golang
-* Insider Websocket Game
+* Badminton Analytics Predictive Lambda 
 
 #### Check out some of my projects 📖
 * [Badminton Analytics Dashboard](http://analytics.badminton-api.com): A dashboard that queries the Badminton Singles API to pull up player match history, player head-to-head records, and analyze % chance of victory against another player.
