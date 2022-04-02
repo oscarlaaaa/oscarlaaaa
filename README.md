@@ -3,7 +3,7 @@ Hi, and welcome to my GitHub profile! My name is Oscar, a software developer cur
 #### A little about me
 * I'm a dual-citizen (Canadian and American)
 * I have a Bachelor's in Applied Animal Biology from the University of British Columbia
-* I started learning software development in January 2021
+* I started learning software development on January 2021
 * My hobbies are board games, badminton, and being a cool guy 😎
 
 #### What I'm currently working on
