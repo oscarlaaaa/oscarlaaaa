@@ -8,13 +8,16 @@ Hi, and welcome to my GitHub profile! My name is Oscar, a software developer cur
 
 #### What I'm currently working on
 * My internship at Addepar 😎
-* Badminton Analytics Dashboard
+* Leetcode 😔
 * Job apps for fall 😿
 
-#### Check out some of my projects 📖
-* [Badminton Analytics Dashboard](http://analytics.badminton-api.com): A dashboard that queries the Badminton Singles API to pull up player match history, player head-to-head records, and analyze % chance of victory against another player.
-* [Badminton Singles API](https://api.badminton-api.com): A webscraper + API that scrapes TournamentSoftware for singles matches, and stores it to be easily queried through URL parameters.
-* [ScoutNinja!](https://scoutninja.herokuapp.com): A scavenger game inspired by Geoguesser where players can create scavenger games on google maps, and send them to friends to play.
+#### Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oscarlaaaa" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarlaaaa&layout=compact" />
+</a>
 
 #### Feel free to reach out to me @:
 * [Personal Website](https://oscar-la.com)
