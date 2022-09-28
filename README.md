@@ -7,8 +7,7 @@ Hi, and welcome to my GitHub profile! My name is Oscar, a student at the British
 * My hobbies are board games, badminton, and being a cool guy 😎
 
 ### What I'm currently working on
-* Leetcode 😔
-* Full-time SWE Applications for 2023
+* Nothing 😎 lets gooooooo
 
 ### Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
