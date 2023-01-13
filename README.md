@@ -8,6 +8,8 @@ Hi, and welcome to my GitHub profile! My name is Oscar, a student at the British
 
 ### What I'm currently working on
 * 2023 New Grad job hunt
+* Learning some more C++ and algo-related techniques
+* Colt Express port
 
 ### Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
