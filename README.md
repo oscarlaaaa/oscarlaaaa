@@ -1,4 +1,4 @@
-Hi, and welcome to my GitHub profile! My name is Oscar, a student at the British Columbia Institute of Technology. I am passionate about data analytics, big data, data engineering/pipelining, and delving into new problem domains!
+Hi, and welcome to my GitHub profile! My name is Oscar, a student at the British Columbia Institute of Technology. I am passionate about data analytics, big data, and delving into new problem domains!
 
 ### A little about me
 * I'm a dual-citizen (Canadian and American)
