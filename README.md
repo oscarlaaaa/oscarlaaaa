@@ -1,4 +1,4 @@
-Hi, and welcome to my GitHub profile! My name is Oscar, a student at the British Columbia Institute of Technology. I am passionate about data analytics, big data, and delving into new problem domains!
+Hi, and welcome to my GitHub profile! My name is Oscar, a software developer. I am passionate about data analytics, algorithms, and delving into new problem domains!
 
 ### A little about me
 * I'm a dual-citizen (Canadian and American)
@@ -7,9 +7,8 @@ Hi, and welcome to my GitHub profile! My name is Oscar, a student at the British
 * My hobbies are board games, badminton, and being a cool guy 😎
 
 ### What I'm currently working on
-* 2023 New Grad job hunt
 * Learning some more C++ and algo-related techniques
-* Colt Express port
+* My job at Arch, a series A fintech startup
 
 ### Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
