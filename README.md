@@ -7,20 +7,9 @@ Hi, and welcome to my GitHub profile! My name is Oscar, a software developer. I 
 * My hobbies are board games, badminton, and being a cool guy 😎
 
 ### What I'm currently working on
-* Learning some more C++ and algo-related techniques
-* My job at Arch, a series A fintech startup
-
-### Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oscarlaaaa" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarlaaaa&layout=compact" />
-</a>
+* My job at Arch, a series B fintech startup
 
 ### Feel free to reach out to me @:
-* [Personal Website](https://oscar-la.com)
 * [LinkedIn](https://linkedin.com/in/oscar-la-bc/)
 * [Email](mailto:oscarla5747@gmail.com)
-* [Devpost](https://devpost.com/oscarla5747)
 * [Github?? You're already on it](https://github.com/oscarlaaaa)
